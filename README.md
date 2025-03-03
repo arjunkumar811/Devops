@@ -1,30 +1,35 @@
 # DevOps Learning Roadmap
 
-## Introduction
 
-*(Fill this section with a brief introduction about yourself and why you're learning DevOps.)*
+## Introduction
+I am Arjun, a MERN stack developer currently expanding my skill set by learning DevOps. My goal is to gain expertise in automation, CI/CD pipelines, cloud infrastructure, and containerization to enhance my development workflow and become a well-rounded engineer.
 
 ## Current Focus
-
-*(Mention what specific DevOps topics, tools, or projects you're currently focusing on.)*
+Currently, I am focusing on mastering basic Bash commands as part of my DevOps learning journey. This includes understanding file handling, process management, and scripting. Moving forward, I will dive into version control (Git), containerization (Docker), and CI/CD pipelines.
 
 ## Tools & Technologies
-
-*(List the DevOps tools, platforms, and technologies you're working with.)*
+- **Operating Systems**: Linux (Ubuntu), Windows
+- **Scripting & Automation**: Bash
+- **Version Control**: Git, GitHub
+- **Containerization**: Docker (upcoming)
+- **CI/CD**: Jenkins, GitHub Actions (upcoming)
+- **Cloud Platforms**: AWS (future learning)
 
 ## Projects
-
-*(Describe the DevOps-related projects you're working on or plan to work on.)*
+- **Bash Scripting**: Automating daily tasks and system operations.
+- **Version Control Setup**: Managing projects efficiently with Git and GitHub.
+- **CI/CD Pipeline (Upcoming)**: Setting up a basic pipeline using GitHub Actions.
+- **Dockerized Application (Upcoming)**: Deploying a simple web application using Docker.
 
 ## Progress Metrics
-
-*(Track your progress, such as completed topics, certifications, or milestones achieved.)*
+- ✅ Completed **Basic Bash Commands** (Week 1)
 
 ## Connect With Me
+- **GitHub**: [github.com/arjunkumar811](https://github.com/arjunkumar811)
+- **LinkedIn**: [https://www.linkedin.com/in/arjunitagi]
+- **Email**: [kumararjun26401@gmail.com]
 
-*(Add your contact details, LinkedIn, GitHub, or other social media links.)*
 
----
 
 # DevOps Topics Breakdown
 
