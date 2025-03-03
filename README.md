@@ -1,5 +1,6 @@
 # DevOps Learning Roadmap
 
+# DevOps Learning Roadmap
 
 ## Introduction
 I am Arjun, a MERN stack developer currently expanding my skill set by learning DevOps. My goal is to gain expertise in automation, CI/CD pipelines, cloud infrastructure, and containerization to enhance my development workflow and become a well-rounded engineer.
@@ -23,11 +24,15 @@ Currently, I am focusing on mastering basic Bash commands as part of my DevOps l
 
 ## Progress Metrics
 - ✅ Completed **Basic Bash Commands** (Week 1)
+- ⏳ Learning **Advanced Bash Scripting** (Week 2)
+- 🔜 Exploring **Git & GitHub Workflows** (Week 3)
+- 🔜 Understanding **Docker & Containerization** (Week 4)
+- 🔜 Implementing **CI/CD Pipelines** (Week 5+)
 
 ## Connect With Me
 - **GitHub**: [github.com/arjunkumar811](https://github.com/arjunkumar811)
-- **LinkedIn**: [https://www.linkedin.com/in/arjunitagi]
-- **Email**: [kumararjun26401@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/arjunitagi](https://www.linkedin.com/in/arjunitagi)
+- **Email**: [kumararjun26401@gmail.com](mailto:kumararjun26401@gmail.com)
 
 
 
