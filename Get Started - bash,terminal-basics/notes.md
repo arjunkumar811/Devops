@@ -27,7 +27,7 @@ Displays files and directories in the current directory.
 ls                # List files in the current directory
 ls -l             # List files with detailed information
 ls -a             # Show hidden files
-ls -lh            # Show file sizes in human-readable format
+ls -lh            # Show file size
 ```
 
 ---
@@ -136,4 +136,5 @@ exit
 ---
 
 This is a beginner-friendly introduction to basic Bash and terminal commands. Keep practicing to improve your command-line skills!
+lets goo....
 
