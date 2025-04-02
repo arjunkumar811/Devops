@@ -1,5 +1,4 @@
 
-
 # DevOps Learning Roadmap
 
 ## Introduction
