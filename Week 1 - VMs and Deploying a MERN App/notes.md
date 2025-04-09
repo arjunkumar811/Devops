@@ -1,5 +1,3 @@
-Alright, I’ll explain each point nicely for your README — detailed enough that someone new can understand but still clean and organized. Here’s the updated version:
-
 ---
 
 # Week 1 - VMs and Deploying a MERN App
