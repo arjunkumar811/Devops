@@ -107,6 +107,8 @@ Use commands like `ifconfig` (Linux/Mac) or `ipconfig` (Windows) to find your IP
 
 ---
 
+Notion Docs - https://petal-estimate-4e9.notion.site/VMs-and-Deploying-a-MERN-app-1867dfd10735809b8c3ad17e07e23ff2
+
 > 📚 **Important Tip**: Mastering these basics early will make cloud deployment and scaling much easier later on!
 
 ---
