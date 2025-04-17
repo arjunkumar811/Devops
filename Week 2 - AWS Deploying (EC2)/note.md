@@ -1,4 +1,4 @@
-# 🌐 Week Two - AWS Deployment using EC2
+#  Week 2 - AWS Deployment using EC2
 
 This week’s focus is on deploying a web application using **Amazon EC2** (Elastic Compute Cloud). Follow the steps below to successfully launch and access your project online.
 
