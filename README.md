@@ -8,8 +8,8 @@ I am Arjun, a MERN stack developer currently expanding my skill set by learning 
 Currently, I am focusing on mastering basic Bash commands as part of my DevOps learning journey. This includes understanding file handling, process management, and scripting. Moving forward, I will dive into version control (Git), containerization (Docker), and CI/CD pipelines.
 
 ## Tools & Technologies
-- **Operating Systems**: Linux (Ubuntu), Windows
-- **Scripting & Automation**: Bash
+- **Operating Systems**: Linux (Ubuntu), Windows 
+- **Scripting & Automation**: Bash 
 - **Version Control**: Git, GitHub
 - **Containerization**: Docker (upcoming)
 - **CI/CD**: Jenkins, GitHub Actions (upcoming)
@@ -22,8 +22,9 @@ Currently, I am focusing on mastering basic Bash commands as part of my DevOps l
 - **Dockerized Application (Upcoming)**: Deploying a simple web application using Docker.
 
 ## Progress Metrics
-- ✅ Completed **Basic Bash Commands** (Week 1)
-- ⏳ Learning **Advanced Bash Scripting** (Week 2)
+- ✅ Completed **Basic Bash Commands** (Week 0)
+- ✅ Completed **VMs and Deploying a MERN App** (Week 1)
+- ✅ Completed **AWS Deploying (EC2)** (Week 2) 
 - 🔜 Exploring **Git & GitHub Workflows** (Week 3)
 - 🔜 Understanding **Docker & Containerization** (Week 4)
 - 🔜 Implementing **CI/CD Pipelines** (Week 5+)
