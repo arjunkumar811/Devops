@@ -13,7 +13,7 @@ Currently, I am focusing on mastering basic Bash commands as part of my DevOps l
 - **Version Control**: Git, GitHub
 - **Containerization**: Docker (upcoming)
 - **CI/CD**: Jenkins, GitHub Actions (upcoming)
-- **Cloud Platforms**: AWS (future learning)
+
 
 ## Projects
 - **Bash Scripting**: Automating daily tasks and system operations.
