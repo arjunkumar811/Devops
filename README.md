@@ -13,7 +13,7 @@ Currently, I am focusing on mastering basic Bash commands as part of my DevOps l
 - **Version Control**: Git, GitHub
 - **Containerization**: Docker (upcoming)
 - **CI/CD**: Jenkins, GitHub Actions (upcoming)
-- **Cloud Platforms**: AWS (future learning)
+
 
 ## Projects
 - **Bash Scripting**: Automating daily tasks and system operations.
@@ -25,9 +25,7 @@ Currently, I am focusing on mastering basic Bash commands as part of my DevOps l
 - ✅ Completed **Basic Bash Commands** (Week 0)
 - ✅ Completed **VMs and Deploying a MERN App** (Week 1)
 - ✅ Completed **AWS Deploying (EC2)** (Week 2) 
-- 🔜 Exploring **Git & GitHub Workflows** (Week 3)
-- 🔜 Understanding **Docker & Containerization** (Week 4)
-- 🔜 Implementing **CI/CD Pipelines** (Week 5+)
+
 
 ## Connect With Me
 - **GitHub**: [github.com/arjunkumar811](https://github.com/arjunkumar811)
